@@ -105,22 +105,22 @@ namespace WebServer
         public static string SendResponse(HttpListenerRequest request)
         {
     
-            XmlDocument doc = new XmlDocument();
+            XmlDocument doc = new XmlDocument();                            // Load xml
             doc.Load("doc.xml");
-            XmlNodeList refs1 = doc.GetElementsByTagName("Declaration");
-            XmlNodeList refs2 = doc.GetElementsByTagName("SiteID");
+            XmlNodeList refs1 = doc.GetElementsByTagName("Declaration");    // Find Declaration Element
+            XmlNodeList refs2 = doc.GetElementsByTagName("SiteID");         // Find SiteID Element
 
-            if (refs1[0].Attributes[0].Value == "DEFAULT")
+            if (refs1[0].Attributes[0].Value == "DEFAULT")                  // Return -1 if Declaration = DEFAULT
                 return "-1";
 
-            if(refs2[0].InnerText == "DUB")
+            if(refs2[0].InnerText == "DUB")                                 // Return -2 if SiteID = DUB
                 return "-2";
             
-            return "0";
+            return "0";                                                     // Return 0 if parsed successfully
         }
         private static void Main(string[] args)
         {
-            var ws = new WebService(SendResponse, "http://localhost:8080/test/");
+            var ws = new WebService(SendResponse, "http://localhost:8080/test/"); // server runs on port 8080/test
             ws.Run();
             Console.WriteLine("A simple webserver. Press a key to quit.");
             Console.ReadKey();
