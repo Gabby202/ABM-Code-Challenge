@@ -1,0 +1,11 @@
+C:\Users\Gabby\Desktop\csrepos\ParseXML\bin\Debug\netcoreapp3.1\ParseXML.exe
+C:\Users\Gabby\Desktop\csrepos\ParseXML\bin\Debug\netcoreapp3.1\ParseXML.deps.json
+C:\Users\Gabby\Desktop\csrepos\ParseXML\bin\Debug\netcoreapp3.1\ParseXML.runtimeconfig.json
+C:\Users\Gabby\Desktop\csrepos\ParseXML\bin\Debug\netcoreapp3.1\ParseXML.runtimeconfig.dev.json
+C:\Users\Gabby\Desktop\csrepos\ParseXML\bin\Debug\netcoreapp3.1\ParseXML.dll
+C:\Users\Gabby\Desktop\csrepos\ParseXML\bin\Debug\netcoreapp3.1\ParseXML.pdb
+C:\Users\Gabby\Desktop\csrepos\ParseXML\obj\Debug\netcoreapp3.1\ParseXML.csprojAssemblyReference.cache
+C:\Users\Gabby\Desktop\csrepos\ParseXML\obj\Debug\netcoreapp3.1\ParseXML.AssemblyInfoInputs.cache
+C:\Users\Gabby\Desktop\csrepos\ParseXML\obj\Debug\netcoreapp3.1\ParseXML.AssemblyInfo.cs
+C:\Users\Gabby\Desktop\csrepos\ParseXML\obj\Debug\netcoreapp3.1\ParseXML.dll
+C:\Users\Gabby\Desktop\csrepos\ParseXML\obj\Debug\netcoreapp3.1\ParseXML.pdb

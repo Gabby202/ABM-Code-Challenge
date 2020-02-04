@@ -1,0 +1,11 @@
+C:\Users\Gabby\Desktop\csrepos\ParseEDIFACT\bin\Debug\netcoreapp3.1\ParseEDIFACT.exe
+C:\Users\Gabby\Desktop\csrepos\ParseEDIFACT\bin\Debug\netcoreapp3.1\ParseEDIFACT.deps.json
+C:\Users\Gabby\Desktop\csrepos\ParseEDIFACT\bin\Debug\netcoreapp3.1\ParseEDIFACT.runtimeconfig.json
+C:\Users\Gabby\Desktop\csrepos\ParseEDIFACT\bin\Debug\netcoreapp3.1\ParseEDIFACT.runtimeconfig.dev.json
+C:\Users\Gabby\Desktop\csrepos\ParseEDIFACT\bin\Debug\netcoreapp3.1\ParseEDIFACT.dll
+C:\Users\Gabby\Desktop\csrepos\ParseEDIFACT\bin\Debug\netcoreapp3.1\ParseEDIFACT.pdb
+C:\Users\Gabby\Desktop\csrepos\ParseEDIFACT\obj\Debug\netcoreapp3.1\ParseEDIFACT.csprojAssemblyReference.cache
+C:\Users\Gabby\Desktop\csrepos\ParseEDIFACT\obj\Debug\netcoreapp3.1\ParseEDIFACT.AssemblyInfoInputs.cache
+C:\Users\Gabby\Desktop\csrepos\ParseEDIFACT\obj\Debug\netcoreapp3.1\ParseEDIFACT.AssemblyInfo.cs
+C:\Users\Gabby\Desktop\csrepos\ParseEDIFACT\obj\Debug\netcoreapp3.1\ParseEDIFACT.dll
+C:\Users\Gabby\Desktop\csrepos\ParseEDIFACT\obj\Debug\netcoreapp3.1\ParseEDIFACT.pdb

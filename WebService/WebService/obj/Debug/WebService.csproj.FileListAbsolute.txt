@@ -1,0 +1,6 @@
+C:\Users\Gabby\source\repos\WebService\WebService\bin\Debug\WebService.exe.config
+C:\Users\Gabby\source\repos\WebService\WebService\bin\Debug\WebService.exe
+C:\Users\Gabby\source\repos\WebService\WebService\bin\Debug\WebService.pdb
+C:\Users\Gabby\source\repos\WebService\WebService\obj\Debug\WebService.csprojAssemblyReference.cache
+C:\Users\Gabby\source\repos\WebService\WebService\obj\Debug\WebService.exe
+C:\Users\Gabby\source\repos\WebService\WebService\obj\Debug\WebService.pdb

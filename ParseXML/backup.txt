@@ -1,0 +1,55 @@
+
+
+
+
+
+
+            // for(int i = 0; i < refs.Count; i++)
+            // {
+                
+            //     string refCode = refs[i].Attributes[0].Value;
+            //     string refTextValue = refs[i].InnerText;
+            //     if(refCode == targetRefCodes[i])
+            //     {
+            //         Console.WriteLine("RefCode: " + refCode + ", " + "Value: " + refs[0].Attributes[0].bak);
+            //     }
+            // }
+
+            // Console.WriteLine(refs[0].Attributes[0].Name);
+
+            // foreach (XmlNode node in doc.DocumentElement)
+            // {
+
+                
+                // if(node.Attributes[0].InnerText != null)
+                // {
+                //     string name = node.Attributes[0].InnerXml;
+                //     Console.WriteLine(name);
+                    
+                // }
+            // }
+
+
+            var watch = System.Diagnostics.Stopwatch.StartNew();            
+            
+            // XmlDocument doc = new XmlDocument();
+            // doc.Load("xml_doc.xml");
+            // Dictionary<string, string> map = new Dictionary<string, string>();
+            // XmlNodeList refs = doc.GetElementsByTagName("Reference");
+
+            // map.Add("MWB", "");
+            // map.Add("TRV", "");
+            // map.Add("CAR", "");
+
+            // for (int i = 0; i < refs.Count; i++)
+            // {
+            //     string key = refs[i].Attributes[0].Value;
+            //     if(map.ContainsKey(key))
+            //     {
+            //         map[key] = refs[i].InnerText;
+            //     }
+            // }
+
+            // foreach (KeyValuePair<string, string> kvp in map)
+            //     Console.WriteLine("RefCode = {0}, RefText Value = {1}", kvp.Key, kvp.Value);
+           
